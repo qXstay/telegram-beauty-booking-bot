@@ -26,23 +26,23 @@ Showcase-проект Telegram-бота для онлайн-записи в beau
 
 ### Главное меню
 
-![Главное меню](screenshots/01-welcome.jpg)
+<img src="screenshots/01-welcome.jpg" alt="Главное меню" width="340">
 
 ### Выбор услуги
 
-![Выбор услуги](screenshots/02-services.jpg)
+<img src="screenshots/02-services.jpg" alt="Выбор услуги" width="340">
 
 ### Подтверждение записи
 
-![Подтверждение записи](screenshots/05-confirmation.jpg)
+<img src="screenshots/05-confirmation.jpg" alt="Подтверждение записи" width="340">
 
 ### Подтверждённый визит
 
-![Подтверждённый визит и мои записи](screenshots/06-booking-success-and-records.jpg)
+<img src="screenshots/06-booking-success-and-records.jpg" alt="Подтверждённый визит и мои записи" width="340">
 
 ### Уведомление администратору
 
-![Уведомление администратору](screenshots/07-admin-notification.jpg)
+<img src="screenshots/07-admin-notification.jpg" alt="Уведомление администратору" width="340">
 
 ## Сценарий записи
 
